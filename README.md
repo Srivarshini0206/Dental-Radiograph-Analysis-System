@@ -24,7 +24,8 @@ The goal of the project is to demonstrate how artificial intelligence can suppor
   **Automated Prediction System** – Upload an X-ray image and receive model predictions.
   **Diagnostic Assistance Tool** – Helps dentists analyze radiographs faster and more consistently.
 
-
+### Project Structure-
+```
 Dental-Radiograph-Analysis-System
 │
 ├── dataset/
@@ -53,6 +54,7 @@ Dental-Radiograph-Analysis-System
 ├── requirements.txt
 ├── README.md
 └── app.py
+```
 **Technologies Used**
 
 * **Python**
