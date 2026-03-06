@@ -2,8 +2,6 @@
 A deep learning–based project for analyzing dental X-ray images to detect and classify dental conditions
 
 
-# Dental Radiograph Analysis System
-
 ## Description
 
 The **Dental Radiograph Analysis System** is a deep learning–based project developed to automatically analyze dental X-ray images and assist in detecting and classifying dental conditions. The system uses computer vision and deep learning techniques to identify teeth, segment dental structures, and analyze radiographs for possible abnormalities.
