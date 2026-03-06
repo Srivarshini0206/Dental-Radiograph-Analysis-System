@@ -87,7 +87,7 @@ Deep learning and machine learning are widely used in dental radiograph analysis
 ### Notebook Environment
 
 * **Google Colab** – model development and training
-* **Jupyter Notebook**
+
 
 Installed Modules (requirements.txt)
 
