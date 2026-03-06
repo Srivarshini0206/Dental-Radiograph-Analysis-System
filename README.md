@@ -61,7 +61,7 @@ Dental-Radiograph-Analysis-System
 * **Deep Learning**
 * **Computer Vision**
 * **Medical Image Processing**
-* **Jupyter Notebook / Google Colab**
+* **Google Colab**
 
 Deep learning and machine learning are widely used in dental radiograph analysis to automatically identify teeth, detect dental diseases, and assist dentists in diagnosis. ([ScienceDirect][2])
 
